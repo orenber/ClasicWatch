@@ -1,4 +1,4 @@
-# ClasicWatch
+# Clasic Clock
 
 ![myClock](myClock.gif)
 
