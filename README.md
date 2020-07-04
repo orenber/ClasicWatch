@@ -1,9 +1,12 @@
 # Clasic Clock
 
-![myClock](myClock.gif)
+![myClock](myClock.gif)    ![casio](casio.gif)
+ 
+ 
+ nice clock                 
+ calculator for free !
 
 
-nice clock 
 
 for more projects in matlab  please contact:
 orenber@hotmail.com 
