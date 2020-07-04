@@ -1,9 +1,15 @@
 # Clasic Clock
 
-![myClock](myClock.gif)    ![casio](casio.gif)
+![myClock](myClock.gif)    
+
+ nice clock  
+ 
+# Calculator
+
+![casio](casio.gif)
  
  
- nice clock                 
+               
  calculator for free !
 
 
